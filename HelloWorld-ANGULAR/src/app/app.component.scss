@@ -9,14 +9,14 @@ h1{
     display: flex;      // Use Flexbox for centering
     justify-content: center;  // Center horizontally
     align-items: center;  // Center vertically
-    height: 100vh;        // Full viewport height
+    height: 50vh;        // Full viewport height
     background-color: #f5f5f5; // Light background for contrast
   
     img {
-      max-width: 200px;  // Adjust image size
-      max-height: 200px; // Keep it proportional
+      max-width: 100px;  // Adjust image size
+      max-height: 100px; // Keep it proportional
       border-radius: 10px; // Add slight rounding
-      box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); // Light shadow for better appearance
+      box-shadow: 5px 4px 6px rgba(0, 0, 0, 0.1); // Light shadow for better appearance
     }
   }
   
